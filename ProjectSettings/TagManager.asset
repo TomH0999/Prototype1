@@ -47,6 +47,9 @@ TagManager:
   - name: Ground
     uniqueID: 2108538465
     locked: 0
+  - name: GroundVegetation
+    uniqueID: 2540735145
+    locked: 0
   - name: Vegetation
     uniqueID: 2891747153
     locked: 0
